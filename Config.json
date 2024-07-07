@@ -1,0 +1,7 @@
+{
+  "TOKEN": "TOKEN",
+  "COMMAND": ["!scan", "!scans"],
+  "SCAN_NAME": {
+    "Wind Breaker": "Wind Breaker (Nii Satoru)"
+  }
+}

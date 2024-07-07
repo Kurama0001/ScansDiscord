@@ -1,0 +1,1 @@
+module.exports = urls => urls.map(end_url => `https://s22.anime-sama.me${end_url}`);

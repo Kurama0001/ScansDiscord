@@ -1,0 +1,1 @@
+"Tu peux supprimer ce fichier une fois installé, car Github ne me permet pas de push un folder vide, la functions 'fetchScans' va te créer automatiquement les JSON avec le nom associé, ils serront de base vide, mais quand on va en rechercher un, par exemple One Piece 1000, alors il va le mettre en cache + save en json"
